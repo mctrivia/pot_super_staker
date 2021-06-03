@@ -1,0 +1,16 @@
+{
+  "name": "pot_super_staker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matthew Cornelisse",
+  "license": "MIT",
+  "dependencies": {
+    "digibyte-rpc": "1.0.5",
+    "fs": "^0.0.1-security"
+  }
+}
